@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterMethod;    //gfjhfvjfhv
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
@@ -45,6 +45,26 @@ public class BaseClass {
 		report.attachReporter(extent);
 
 		Reporter.log("Setting Done- Test can be started", true);
+
+//  java project
+
+//  java project
+
+//  java project
+
+//  java project
+
+//  java project
+
+//  java project
+
+
+
+
+
+
+
+
 	}
 
 //	@Parameters({ "browser", "urlToBeTested" })
